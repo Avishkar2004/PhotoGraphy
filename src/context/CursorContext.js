@@ -1,7 +1,9 @@
-import React from 'react';
+import React from 'react'
 
 const CursorContext = () => {
-  return <div>CursorContext</div>;
-};
+  return (
+    <div>CursorContext</div>
+  )
+}
 
-export default CursorContext;
+export default CursorContext
